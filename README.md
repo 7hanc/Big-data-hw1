@@ -1,4 +1,4 @@
-# # Big-data (hw1) 
+# Big-data (hw1) 
 
 # Homework 1 (Using pandas, kmeans(scikit-learn))
 
